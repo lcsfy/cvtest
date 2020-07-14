@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Hello, this is a test CV"
+  title : "This is deployed via azure devops"
 
 # about
 about:
